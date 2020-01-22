@@ -29,4 +29,4 @@ cacheSolve <- function(x, ...) {
       inv<- solve(data, ...)
       x$setInv(inv)
       inv
-} ## if otherwise opperate as normal
+} ## if otherwise opperate as normal.
